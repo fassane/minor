@@ -68,4 +68,4 @@ React Native, Javascript
     * If you don't have it installed, run `npx react-native run-android`
 
 ## Help
-If you are not able to run project contact me on fassanebolly@gmail.com
+If needed reach me on fassanebolly@gmail.com
