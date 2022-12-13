@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Avenir Next Bold.otf",
+      "sha1": "ac8ad64356a006a6e701d70c3bbf3f6011f91c98"
+    },
+    {
+      "path": "assets/fonts/Avenir Next Italic.otf",
+      "sha1": "602fc8cdb3bd9e5fe83b6ea19e0762a394f287f3"
+    },
+    {
+      "path": "assets/fonts/Avenir Next.otf",
+      "sha1": "5431b8a80300b8dd7014f2f1d05c66b3f0d89f38"
+    },
+    {
+      "path": "assets/fonts/Learning Curve Bold.otf",
+      "sha1": "b17309802a7082bc680a75ea48990a720df0c9c3"
+    }
+  ]
+}
