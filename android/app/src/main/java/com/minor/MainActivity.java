@@ -1,5 +1,6 @@
 package com.minor;
 
+import org.devio.rn.splashscreen.SplashScreen; // here
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
@@ -11,16 +12,24 @@ public class MainActivity extends ReactActivity {
    * Returns the name of the main component registered from JavaScript. This is used to schedule
    * rendering of the component.
    */
+
+  // Added by me
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    SplashScreen.show(this);
+    super.onCreate(null);
+  }
+
   @Override
   protected String getMainComponentName() {
     return "minor";
   }
 
   // for @react-native-screens package to work well
-  @Override
-  protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(null);
-  }
+  // @Override
+  // protected void onCreate(Bundle savedInstanceState) {
+  //   super.onCreate(null);
+  // }
 
   /**
    * Returns the instance of the {@link ReactActivityDelegate}. There the RootView is created and
