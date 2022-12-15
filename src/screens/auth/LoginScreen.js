@@ -10,8 +10,6 @@ import { View,
       Dimensions } from 'react-native';
 import Input from '../../components/Input';
 import { AuthContext } from '../../components/Context';
-import AppLogoFooter from '../../components/AppLogoFooter';
- 
 
 
 
@@ -181,8 +179,6 @@ const LoginScreen = ({navigation}) => {
           <SubmitButton text='Je me connecte' onPress={() => Login(data.number, data.password)}  />
 
           <RedirectionText text="je n'ai pas de compte." route='register' />
-
-          {/* <AppLogoFooter  />  */}
 
         </View>
 
