@@ -1,7 +1,16 @@
 {
   "name": "minor",
   "version": "0.0.1",
+  "author": {
+    "name": "Hassan BOLLY",
+    "email": "fassanebolly@gmail.com",
+    "url": "https://github.com/fassane"
+  },
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fassane/minor-priv"
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
