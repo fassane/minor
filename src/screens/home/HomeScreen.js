@@ -135,7 +135,7 @@ const HomeScreen = ({navigation}) => {
 
            {/* <FloatedIcon name='chatbubble-ellipses' redirection='prechatbot' /> */}
 
-           <AppLogoFooter isForMainApp={true} />
+           {/* <AppLogoFooter isForMainApp={true} /> */}
            
         </View>
       

@@ -72,7 +72,7 @@ const AccountScreen = ({navigation}) => {
             <Image source={require('../../assets/images/gift.png')} style={styles.giftImage} />
 
 
-            <AppLogoFooter isForMainApp={true} />
+            {/* <AppLogoFooter isForMainApp={true} /> */}
 
         </View>
     </View>
