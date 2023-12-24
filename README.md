@@ -1,6 +1,6 @@
 # Minor App
-<!--![HeaderImage](github_images/header.png) -->
-<h1 align="center"><img src="github_images/splash.jpg" alt="HeaderImage" width="250" height="500" /></h1>
+<!--![HeaderImage](.github_images/header.png) -->
+<h1 align="center"><img src=".github_images/splash.jpg" alt="HeaderImage" width="250" height="500" /></h1>
 
 ## Introduction
 This is a demo application built with the goal to familarize and learn about react native.
@@ -26,28 +26,28 @@ React Native, Javascript
 
 ### Login | Register
 <p align = "left" >
-  <img width="250" height="500" src="github_images/login.jpeg">
-  <img width="250" height="500"  src="github_images/register.jpeg"> 
-  <img width="250" height="500" src="github_images/register_.jpeg"> 
+  <img width="250" height="500" src=".github_images/login.jpeg">
+  <img width="250" height="500"  src=".github_images/register.jpeg"> 
+  <img width="250" height="500" src=".github_images/register_.jpg"> 
 </p>
 
 ### Home | Exchange | Portofolio
 <p align = "left" >
-  <img width="250" height="500" src="github_images/home.jpg">
-  <img width="250" height="500"  src="github_images/exchange.jpg"> 
-  <img width="250" height="500" src="github_images/portofolio.jpeg"> 
+  <img width="250" height="500" src=".github_images/home.jpg">
+  <img width="250" height="500"  src=".github_images/exchange.jpg"> 
+  <img width="250" height="500" src=".github_images/portofolio.jpeg"> 
 </p>
 
 ### Chatbot | Chat
 <p align = "left" >
-  <img width="250" height="500" src="github_images/prechat.jpeg">
-  <img width="250" height="500"  src="github_images/chat.jpeg"> 
+  <img width="250" height="500" src=".github_images/prechat.jpeg">
+  <img width="250" height="500"  src=".github_images/chat.jpeg"> 
 </p>
 
 ### Choose image | Solde
 <p align = "left" >
-  <img width="250" height="500" src="github_images/chooseimg.jpg">
-  <img width="250" height="500"  src="github_images/solde.jpg"> 
+  <img width="250" height="500" src=".github_images/chooseimg.jpg">
+  <img width="250" height="500"  src=".github_images/solde.jpg"> 
 </p>
 
 ## Setup
